@@ -2,9 +2,6 @@
 Here is the list of my unfinished projects:
 
 #### Basics
-- Initiator
-- Visualizer
-- Data Reading and Writing
 - Exploratory Analysis Booster
 - Modelling Booster
 
